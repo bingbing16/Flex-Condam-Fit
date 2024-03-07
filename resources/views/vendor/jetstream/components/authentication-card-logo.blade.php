@@ -1,0 +1,1 @@
+<img src="/frontend/img/condamlogo.png" alt="logo" style="width: 100px; height:100px;">
